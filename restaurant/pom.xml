@@ -60,7 +60,8 @@
   <!-- =============================================================== -->
   <!-- Modules -->
   <!-- =============================================================== -->
-  <modules>  <module>restaurant-webapp</module>
+  <modules>
+    <module>restaurant-webapp</module>
     <module>restaurant-business</module>
     <module>restaurant-consumer</module>
     <module>restaurant-model</module>
