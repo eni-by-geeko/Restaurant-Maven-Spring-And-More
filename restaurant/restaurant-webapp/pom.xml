@@ -23,11 +23,20 @@
   </properties>
 
   <dependencies>
+    <!-- ===== Modules ===== -->
+    <dependency>
+      <groupId>org.bygecko.training</groupId>
+      <artifactId>restaurant-business</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.bygecko.training</groupId>
+      <artifactId>restaurant-model</artifactId>
+    </dependency>
+
+    <!-- ===== Bibliothèques tierces ===== -->
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.11</version>
-      <scope>test</scope>
     </dependency>
   </dependencies>
 
