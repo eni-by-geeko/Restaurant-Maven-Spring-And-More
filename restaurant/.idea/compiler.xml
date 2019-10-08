@@ -9,6 +9,7 @@
         <module name="restaurant-business" />
         <module name="restaurant-consumer" />
         <module name="restaurant-model" />
+        <module name="restaurant-batch" />
         <module name="restaurant-webapp" />
       </profile>
     </annotationProcessing>
