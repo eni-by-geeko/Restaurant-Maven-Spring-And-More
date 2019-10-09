@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/restaurant.iml" filepath="$PROJECT_DIR$/restaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restaurant-batch/restaurant-batch.iml" filepath="$PROJECT_DIR$/restaurant-batch/restaurant-batch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restaurant-business/restaurant-business.iml" filepath="$PROJECT_DIR$/restaurant-business/restaurant-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restaurant-consumer/restaurant-consumer.iml" filepath="$PROJECT_DIR$/restaurant-consumer/restaurant-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restaurant-model/restaurant-model.iml" filepath="$PROJECT_DIR$/restaurant-model/restaurant-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restaurant-webapp/restaurant-webapp.iml" filepath="$PROJECT_DIR$/restaurant-webapp/restaurant-webapp.iml" />
+    </modules>
+  </component>
+</project>

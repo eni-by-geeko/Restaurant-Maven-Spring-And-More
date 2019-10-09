@@ -13,5 +13,13 @@
         <module name="restaurant-webapp" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="restaurant" target="1.5" />
+      <module name="restaurant-batch" target="1.5" />
+      <module name="restaurant-business" target="1.5" />
+      <module name="restaurant-consumer" target="1.5" />
+      <module name="restaurant-model" target="1.5" />
+      <module name="restaurant-webapp" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
