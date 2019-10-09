@@ -16,3 +16,5 @@ https://openclassrooms.com/fr/courses/4504771-simplifiez-le-developpement-dappli
 1.1 Création des dépendances Maven
 
 1.2 Ajout d'un module batch et création du site "intra" du projet
+
+1.3 ajout de rapports et plugins pour le plugin site maven du projet
