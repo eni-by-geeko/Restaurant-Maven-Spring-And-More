@@ -22,10 +22,17 @@ https://openclassrooms.com/fr/courses/4504771-simplifiez-le-developpement-dappli
 source ... a explorer
 
 https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring
+
 https://www.baeldung.com/spring-xml-injection
+
 https://www.journaldev.com/2433/spring-mvc-tutorial
+
 https://www.journaldev.com/2461/spring-ioc-bean-example-tutorial#spring-bean-xml-config
+
 https://www.journaldev.com/2461/spring-ioc-bean-example-tutorial
+
 https://spring.io/guides/gs/multi-module/
+
 https://www.baeldung.com/spring-boot-multiple-modules
+
 https://howtodoinjava.com/spring-boot2/sb-multi-module-maven-project/
